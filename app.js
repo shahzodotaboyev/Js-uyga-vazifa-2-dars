@@ -1,7 +1,7 @@
 // Boolean-1
-let a = prompt('son kiriting');
-let natija = (a % 2 === 0) ? "A soni juft" : "A soni toq";
-console.log(natija);
+// let a = prompt('son kiriting');
+// let natija = (a % 2 === 0) ? "A soni juft" : "A soni toq";
+// console.log(natija);
 
 // Boolean-2
 // let a = prompt('a sonini kiritng')
@@ -55,7 +55,7 @@ console.log(natija);
 // let a = prompt('a ga son kiritng:');
 // let b = prompt('b ga son kiritng:');
 // let c = prompt('c ga son kiritng:');
-// if (a > 0 ||  b < 0 || c > 0) { 
+// if (a > 0 ||  b < 0 || c > 0) {
 //     console.log('a , b va c soni manfiy');
 
 // }else{
@@ -67,7 +67,7 @@ console.log(natija);
 // function isOnlyOnePositive(A, B, C) {
 //     const positiveCount = (A > 0 ? 1 : 0) + (B > 0 ? 1 : 0) + (C > 0 ? 1 : 0);
 //     return positiveCount === 1;
-// } 
+// }
 // let a = prompt('a ga son bering')
 // let b = prompt('b ga son bering')
 // let c = prompt('c ga son bering');
@@ -99,7 +99,7 @@ console.log(natija);
 //     return num >= 10 && num < 100 && num % 2 === 0;
 // }
 
-// const number = 42; 
+// const number = 42;
 
 // if (isTwoDigitEven(number)) {
 //     console.log("Berilgan son ikki xonali juft son.");
@@ -112,7 +112,7 @@ console.log(natija);
 //     return num >= 100 && num < 1000 && num % 2 !== 0;
 // }
 
-// let  number = promp('ikki honali son bering:'); 
+// let  number = promp('ikki honali son bering:');
 
 // if (isThreeDigitOdd(number)) {
 //     console.log("Berilgan son uch xonali toq.");
@@ -196,7 +196,7 @@ console.log(natija);
 // const y = 1/a**2 * (b/10)**3 *  (c+d)**2;
 // console.log(y);
 
-// 5 
+// 5
 // let a = prompt('a ga qiymat bering: ');
 // let b = prompt('b ga qiymat bering: ');
 // let c = prompt('c ga qiymat bering: ');
@@ -220,7 +220,7 @@ console.log(natija);
 // const y = Math.sqrt((a + b + c) ** 2 + (a - b - c) ** 2);
 // console.log(y);
 
-// 8 
+// 8
 // let a = prompt('a ga qiymat bering: ');
 // let b = prompt('b ga qiymat bering: ');
 // let c = prompt('c ga qiymat bering: ');
@@ -228,7 +228,7 @@ console.log(natija);
 // const y = (a ** 2 + b ** 2 + c ** 2) / (a * b * c);
 // console.log(y);
 
-// 9 
+// 9
 // let a = prompt('a ga qiymat bering: ');
 // let b = prompt('b ga qiymat bering: ');
 // let c = prompt('c ga qiymat bering: ');
@@ -241,3 +241,33 @@ console.log(natija);
 // let  b = prompt('b ga qiymat bering: ');
 // let  c = prompt('c ga qiymat bering: ');
 // let  d = prompt('d ga qiymat bering: ');
+
+
+
+// -------------------------------------
+// Qo'shimcha-1
+// let a = prompt('Ustoz  kursi yariminda ketip qolasizmi?');
+// if (a = 'ha' ) {
+//     console.log('Iltimos  kursni yarimida ketip qolmang');
+// }
+
+
+
+// Qo'shimcha-2
+// let yosh = prompt('Yoshingiz nechida?');
+// if (yosh >= 18) {
+//     console.log('siz varlohat yoshiga yetgansiz')
+// } else {
+//     console.log("siz valohat yoshiga  yetgansiz")
+
+// }
+
+// Qo'shimcha-3
+// let summa = prompt('Somsa nechi pull');
+// if (summa >= 9000) {
+//     console.log('Qimmat');
+// } else {
+//     console.log('5 ta bering');
+// }
+
+
