@@ -77,3 +77,49 @@
 // } else {
 //     console.log("A, B, C sonlaridan faqat bittasi musbat emas.");
 // }
+
+
+// Boolen-9
+// function areTwoPositive(A, B, C) {
+//     const positiveCount = (A > 0 ? 1 : 0) + (B > 0 ? 1 : 0) + (C > 0 ? 1 : 0);
+//     return positiveCount === 2;
+// }
+// let  a = prompt('a ga son bering')
+// let  b = prompt('b ga son bering')
+// let   c= prompt('c ga son bering')
+
+// if (areTwoPositive(a, b, c)) {
+//     console.log("A, B, C sonlardan faqat ikkitasi musbat son.");
+// } else {
+//     console.log("A, B, C sonlardan faqat ikkitasi musbat emas.");
+// }
+
+// Boolen-10
+// function isTwoDigitEven(num) {
+//     return num >= 10 && num < 100 && num % 2 === 0;
+// }
+
+// const number = 42; 
+
+// if (isTwoDigitEven(number)) {
+//     console.log("Berilgan son ikki xonali juft son.");
+// } else {
+//     console.log("Berilgan son ikki xonali juft son emas.");
+// }
+
+// Boolen-11
+// function isThreeDigitOdd(num) {
+//     return num >= 100 && num < 1000 && num % 2 !== 0;
+// }
+
+// let  number = promp('ikki honali son bering:'); 
+
+// if (isThreeDigitOdd(number)) {
+//     console.log("Berilgan son uch xonali toq.");
+// } else {
+//     console.log("Berilgan son uch xonali toq emas.");
+// }
+
+// Boolen-12 ( Ishlap biladim )
+
+// Boolen-13
